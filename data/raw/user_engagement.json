@@ -1,0 +1,53 @@
+[
+    {
+      "user_id": 101,
+      "ad_id": "A123",
+      "click": 1,
+      "impressions": 5,
+      "time_spent": 12.5,
+      "device": "mobile",
+      "location": "New York",
+      "category": "Tech"
+    },
+    {
+      "user_id": 102,
+      "ad_id": "A456",
+      "click": 0,
+      "impressions": 3,
+      "time_spent": 5.0,
+      "device": "desktop",
+      "location": "California",
+      "category": "Fashion"
+    },
+    {
+      "user_id": 103,
+      "ad_id": "A789",
+      "click": 1,
+      "impressions": 7,
+      "time_spent": 18.2,
+      "device": "tablet",
+      "location": "Texas",
+      "category": "Gaming"
+    },
+    {
+      "user_id": 104,
+      "ad_id": "A234",
+      "click": 0,
+      "impressions": 2,
+      "time_spent": 3.8,
+      "device": "mobile",
+      "location": "Florida",
+      "category": "Travel"
+    },
+    {
+      "user_id": 105,
+      "ad_id": "A567",
+      "click": 1,
+      "impressions": 9,
+      "time_spent": 22.1,
+      "device": "desktop",
+      "location": "Washington",
+      "category": "Finance"
+    }
+  ]
+  

@@ -1,0 +1,1032 @@
+user_id,age,gender,location,device,ad_category,ad_id,impressions,clicks,time_spent_sec
+26872,33,Other,Miami,Tablet,Automotive,2921,2,2,0.52
+46509,47,Male,Boston,Desktop,Health,3990,3,3,21.6
+47744,26,Other,New York,Mobile,Health,6092,10,7,25.61
+45091,29,Other,New York,Desktop,Automotive,4821,8,4,27.02
+97682,61,Male,Miami,Mobile,Automotive,6278,10,4,1.34
+92962,27,Female,Dallas,Desktop,Entertainment,4686,4,1,49.02
+96946,39,Male,Los Angeles,Mobile,Gaming,6855,8,3,2.17
+92265,19,Male,New York,Desktop,Health,6110,7,3,54.33
+60338,47,Female,New York,Mobile,Travel,8635,2,2,38.0
+25171,42,Female,Seattle,Tablet,Education,1164,7,5,7.16
+90398,57,Female,San Francisco,Tablet,Education,1532,9,5,44.81
+46898,24,Other,Miami,Desktop,Health,2584,5,3,10.58
+44166,61,Male,Boston,Tablet,Food,8547,2,0,46.08
+50033,39,Female,Chicago,Desktop,Fashion,8850,4,2,52.96
+70124,24,Female,Miami,Mobile,Health,1046,7,2,22.86
+98941,28,Male,San Francisco,Tablet,Gaming,3300,8,8,9.36
+80928,22,Female,San Francisco,Mobile,Entertainment,8292,8,2,4.85
+88827,40,Female,New York,Mobile,Gaming,1055,2,2,10.93
+48859,56,Female,Houston,Desktop,Gaming,7154,4,0,27.87
+40766,51,Male,Chicago,Desktop,Entertainment,2209,7,3,21.33
+87509,38,Male,Miami,Mobile,Automotive,2041,10,10,6.95
+27668,44,Male,Boston,Tablet,Finance,3170,2,1,58.48
+92821,43,Other,Los Angeles,Mobile,Finance,4306,2,0,38.23
+76990,63,Female,Seattle,Mobile,Fashion,2304,6,6,38.04
+55141,44,Female,San Francisco,Mobile,Entertainment,1418,9,4,33.47
+82225,20,Male,Boston,Desktop,Education,8955,10,6,4.08
+41900,23,Other,San Francisco,Mobile,Tech,9951,2,1,22.37
+47263,65,Other,Miami,Mobile,Gaming,8348,2,0,11.43
+39029,31,Female,San Francisco,Mobile,Health,5301,5,1,31.73
+91693,57,Male,Seattle,Tablet,Tech,5895,4,0,39.9
+77597,44,Male,Boston,Tablet,Travel,5522,3,2,32.73
+75649,45,Male,Denver,Mobile,Entertainment,4289,2,2,54.01
+93340,58,Other,Houston,Mobile,Automotive,5880,1,1,52.39
+48941,19,Male,Boston,Tablet,Travel,8386,8,3,15.69
+78484,30,Male,Seattle,Mobile,Food,9148,1,1,41.2
+51331,39,Other,New York,Mobile,Finance,7223,9,4,39.6
+90026,38,Other,San Francisco,Mobile,Fashion,7471,4,3,33.61
+85497,33,Male,Dallas,Desktop,Health,3607,4,3,2.95
+77802,28,Female,Dallas,Mobile,Entertainment,7988,3,0,8.35
+25749,42,Male,Chicago,Tablet,Fashion,9062,4,2,32.41
+12554,42,Male,Boston,Tablet,Finance,1847,1,0,51.45
+59423,53,Male,Houston,Tablet,Fashion,5412,4,3,59.81
+66064,48,Male,San Francisco,Mobile,Fashion,3800,2,1,5.5
+79744,54,Male,Chicago,Mobile,Entertainment,1089,2,2,36.37
+84593,19,Male,San Francisco,Mobile,Health,2688,5,1,55.02
+41163,42,Other,San Francisco,Mobile,Finance,8885,2,2,57.8
+54151,30,Female,Houston,Desktop,Tech,9660,7,2,2.97
+17971,53,Male,San Francisco,Desktop,Finance,1106,10,10,24.0
+43831,62,Male,Los Angeles,Desktop,Entertainment,6096,3,1,32.12
+84305,44,Male,Miami,Tablet,Travel,7030,6,5,44.26
+58971,33,Female,Los Angeles,Mobile,Fashion,8869,6,1,10.54
+58342,50,Male,Houston,Mobile,Gaming,2856,3,1,40.94
+46234,60,Female,San Francisco,Desktop,Food,3245,1,1,16.39
+91646,27,Female,Miami,Mobile,Fashion,4491,5,4,29.01
+60178,41,Other,Boston,Desktop,Finance,5586,5,5,17.95
+41188,61,Other,Chicago,Mobile,Travel,1828,4,4,45.31
+15084,32,Male,Chicago,Desktop,Food,3122,1,1,10.6
+17413,57,Male,New York,Mobile,Health,9485,5,4,51.4
+20989,35,Female,Seattle,Tablet,Finance,5664,8,7,36.1
+22503,27,Female,San Francisco,Mobile,Health,4181,2,2,17.98
+39219,18,Female,Miami,Tablet,Finance,9163,7,3,12.77
+88871,53,Male,Houston,Mobile,Gaming,9692,8,0,34.22
+28472,38,Other,Miami,Desktop,Gaming,1109,7,1,5.4
+14438,36,Male,Los Angeles,Desktop,Tech,1595,5,0,28.53
+77482,42,Female,Chicago,Tablet,Automotive,7384,4,1,25.08
+71995,18,Male,Miami,Desktop,Finance,7957,10,8,9.4
+14487,63,Other,Boston,Desktop,Fashion,3410,6,6,56.21
+18680,50,Male,New York,Tablet,Education,5706,9,8,21.85
+65771,45,Female,Dallas,Tablet,Tech,4170,4,3,11.79
+10217,61,Other,Seattle,Desktop,Travel,3908,5,1,50.76
+74177,25,Other,New York,Desktop,Health,6411,3,3,31.65
+61781,63,Female,Los Angeles,Tablet,Automotive,3741,4,2,45.41
+63270,61,Male,Chicago,Desktop,Food,7015,8,5,44.11
+92461,65,Other,Los Angeles,Tablet,Health,4137,3,2,49.34
+18380,27,Other,Seattle,Desktop,Tech,4287,9,8,34.54
+42802,52,Male,Dallas,Mobile,Gaming,7530,8,3,18.16
+15109,22,Male,Seattle,Tablet,Tech,2899,1,0,50.71
+34703,63,Male,Seattle,Desktop,Entertainment,2072,3,3,29.56
+67625,58,Male,San Francisco,Desktop,Fashion,6052,2,0,37.48
+59986,20,Male,Boston,Tablet,Education,2671,4,4,30.41
+72118,60,Female,Houston,Mobile,Fashion,1564,7,7,47.54
+57055,33,Other,Seattle,Desktop,Finance,2967,6,6,10.54
+94680,54,Female,Seattle,Desktop,Tech,4718,6,0,51.15
+90937,19,Other,Denver,Desktop,Education,9788,6,0,49.94
+99334,36,Other,Denver,Desktop,Health,1641,5,4,30.34
+56634,37,Other,Dallas,Mobile,Travel,4006,5,1,57.19
+77206,20,Male,New York,Tablet,Fashion,6926,10,3,58.42
+88878,21,Male,Denver,Desktop,Food,4038,1,0,58.75
+16935,29,Female,Denver,Tablet,Gaming,5371,1,1,12.73
+39839,18,Male,Los Angeles,Tablet,Gaming,5266,2,0,19.08
+64214,27,Male,Denver,Mobile,Fashion,3851,8,3,46.5
+27330,29,Other,Los Angeles,Desktop,Fashion,7661,2,2,49.27
+90201,23,Female,Denver,Mobile,Automotive,7342,3,2,12.03
+70469,32,Male,Houston,Mobile,Tech,1407,1,0,57.16
+37951,42,Female,Denver,Mobile,Fashion,7050,3,2,9.85
+70471,22,Male,Los Angeles,Mobile,Entertainment,6221,8,6,56.46
+95121,31,Other,Los Angeles,Mobile,Gaming,5455,2,0,35.87
+24204,40,Other,Los Angeles,Tablet,Fashion,4456,5,5,58.65
+55464,44,Male,Seattle,Mobile,Health,4992,6,1,11.24... (5 KB left)
+Collapse
+sample_ad_data.csv
+55 KB
+﻿
+neonsense
+neonsensebullsit
+ 
+ 
+i said i hate the smiths
+user_id,age,gender,location,device,ad_category,ad_id,impressions,clicks,time_spent_sec
+26872,33,Other,Miami,Tablet,Automotive,2921,2,2,0.52
+46509,47,Male,Boston,Desktop,Health,3990,3,3,21.6
+47744,26,Other,New York,Mobile,Health,6092,10,7,25.61
+45091,29,Other,New York,Desktop,Automotive,4821,8,4,27.02
+97682,61,Male,Miami,Mobile,Automotive,6278,10,4,1.34
+92962,27,Female,Dallas,Desktop,Entertainment,4686,4,1,49.02
+96946,39,Male,Los Angeles,Mobile,Gaming,6855,8,3,2.17
+92265,19,Male,New York,Desktop,Health,6110,7,3,54.33
+60338,47,Female,New York,Mobile,Travel,8635,2,2,38.0
+25171,42,Female,Seattle,Tablet,Education,1164,7,5,7.16
+90398,57,Female,San Francisco,Tablet,Education,1532,9,5,44.81
+46898,24,Other,Miami,Desktop,Health,2584,5,3,10.58
+44166,61,Male,Boston,Tablet,Food,8547,2,0,46.08
+50033,39,Female,Chicago,Desktop,Fashion,8850,4,2,52.96
+70124,24,Female,Miami,Mobile,Health,1046,7,2,22.86
+98941,28,Male,San Francisco,Tablet,Gaming,3300,8,8,9.36
+80928,22,Female,San Francisco,Mobile,Entertainment,8292,8,2,4.85
+88827,40,Female,New York,Mobile,Gaming,1055,2,2,10.93
+48859,56,Female,Houston,Desktop,Gaming,7154,4,0,27.87
+40766,51,Male,Chicago,Desktop,Entertainment,2209,7,3,21.33
+87509,38,Male,Miami,Mobile,Automotive,2041,10,10,6.95
+27668,44,Male,Boston,Tablet,Finance,3170,2,1,58.48
+92821,43,Other,Los Angeles,Mobile,Finance,4306,2,0,38.23
+76990,63,Female,Seattle,Mobile,Fashion,2304,6,6,38.04
+55141,44,Female,San Francisco,Mobile,Entertainment,1418,9,4,33.47
+82225,20,Male,Boston,Desktop,Education,8955,10,6,4.08
+41900,23,Other,San Francisco,Mobile,Tech,9951,2,1,22.37
+47263,65,Other,Miami,Mobile,Gaming,8348,2,0,11.43
+39029,31,Female,San Francisco,Mobile,Health,5301,5,1,31.73
+91693,57,Male,Seattle,Tablet,Tech,5895,4,0,39.9
+77597,44,Male,Boston,Tablet,Travel,5522,3,2,32.73
+75649,45,Male,Denver,Mobile,Entertainment,4289,2,2,54.01
+93340,58,Other,Houston,Mobile,Automotive,5880,1,1,52.39
+48941,19,Male,Boston,Tablet,Travel,8386,8,3,15.69
+78484,30,Male,Seattle,Mobile,Food,9148,1,1,41.2
+51331,39,Other,New York,Mobile,Finance,7223,9,4,39.6
+90026,38,Other,San Francisco,Mobile,Fashion,7471,4,3,33.61
+85497,33,Male,Dallas,Desktop,Health,3607,4,3,2.95
+77802,28,Female,Dallas,Mobile,Entertainment,7988,3,0,8.35
+25749,42,Male,Chicago,Tablet,Fashion,9062,4,2,32.41
+12554,42,Male,Boston,Tablet,Finance,1847,1,0,51.45
+59423,53,Male,Houston,Tablet,Fashion,5412,4,3,59.81
+66064,48,Male,San Francisco,Mobile,Fashion,3800,2,1,5.5
+79744,54,Male,Chicago,Mobile,Entertainment,1089,2,2,36.37
+84593,19,Male,San Francisco,Mobile,Health,2688,5,1,55.02
+41163,42,Other,San Francisco,Mobile,Finance,8885,2,2,57.8
+54151,30,Female,Houston,Desktop,Tech,9660,7,2,2.97
+17971,53,Male,San Francisco,Desktop,Finance,1106,10,10,24.0
+43831,62,Male,Los Angeles,Desktop,Entertainment,6096,3,1,32.12
+84305,44,Male,Miami,Tablet,Travel,7030,6,5,44.26
+58971,33,Female,Los Angeles,Mobile,Fashion,8869,6,1,10.54
+58342,50,Male,Houston,Mobile,Gaming,2856,3,1,40.94
+46234,60,Female,San Francisco,Desktop,Food,3245,1,1,16.39
+91646,27,Female,Miami,Mobile,Fashion,4491,5,4,29.01
+60178,41,Other,Boston,Desktop,Finance,5586,5,5,17.95
+41188,61,Other,Chicago,Mobile,Travel,1828,4,4,45.31
+15084,32,Male,Chicago,Desktop,Food,3122,1,1,10.6
+17413,57,Male,New York,Mobile,Health,9485,5,4,51.4
+20989,35,Female,Seattle,Tablet,Finance,5664,8,7,36.1
+22503,27,Female,San Francisco,Mobile,Health,4181,2,2,17.98
+39219,18,Female,Miami,Tablet,Finance,9163,7,3,12.77
+88871,53,Male,Houston,Mobile,Gaming,9692,8,0,34.22
+28472,38,Other,Miami,Desktop,Gaming,1109,7,1,5.4
+14438,36,Male,Los Angeles,Desktop,Tech,1595,5,0,28.53
+77482,42,Female,Chicago,Tablet,Automotive,7384,4,1,25.08
+71995,18,Male,Miami,Desktop,Finance,7957,10,8,9.4
+14487,63,Other,Boston,Desktop,Fashion,3410,6,6,56.21
+18680,50,Male,New York,Tablet,Education,5706,9,8,21.85
+65771,45,Female,Dallas,Tablet,Tech,4170,4,3,11.79
+10217,61,Other,Seattle,Desktop,Travel,3908,5,1,50.76
+74177,25,Other,New York,Desktop,Health,6411,3,3,31.65
+61781,63,Female,Los Angeles,Tablet,Automotive,3741,4,2,45.41
+63270,61,Male,Chicago,Desktop,Food,7015,8,5,44.11
+92461,65,Other,Los Angeles,Tablet,Health,4137,3,2,49.34
+18380,27,Other,Seattle,Desktop,Tech,4287,9,8,34.54
+42802,52,Male,Dallas,Mobile,Gaming,7530,8,3,18.16
+15109,22,Male,Seattle,Tablet,Tech,2899,1,0,50.71
+34703,63,Male,Seattle,Desktop,Entertainment,2072,3,3,29.56
+67625,58,Male,San Francisco,Desktop,Fashion,6052,2,0,37.48
+59986,20,Male,Boston,Tablet,Education,2671,4,4,30.41
+72118,60,Female,Houston,Mobile,Fashion,1564,7,7,47.54
+57055,33,Other,Seattle,Desktop,Finance,2967,6,6,10.54
+94680,54,Female,Seattle,Desktop,Tech,4718,6,0,51.15
+90937,19,Other,Denver,Desktop,Education,9788,6,0,49.94
+99334,36,Other,Denver,Desktop,Health,1641,5,4,30.34
+56634,37,Other,Dallas,Mobile,Travel,4006,5,1,57.19
+77206,20,Male,New York,Tablet,Fashion,6926,10,3,58.42
+88878,21,Male,Denver,Desktop,Food,4038,1,0,58.75
+16935,29,Female,Denver,Tablet,Gaming,5371,1,1,12.73
+39839,18,Male,Los Angeles,Tablet,Gaming,5266,2,0,19.08
+64214,27,Male,Denver,Mobile,Fashion,3851,8,3,46.5
+27330,29,Other,Los Angeles,Desktop,Fashion,7661,2,2,49.27
+90201,23,Female,Denver,Mobile,Automotive,7342,3,2,12.03
+70469,32,Male,Houston,Mobile,Tech,1407,1,0,57.16
+37951,42,Female,Denver,Mobile,Fashion,7050,3,2,9.85
+70471,22,Male,Los Angeles,Mobile,Entertainment,6221,8,6,56.46
+95121,31,Other,Los Angeles,Mobile,Gaming,5455,2,0,35.87
+24204,40,Other,Los Angeles,Tablet,Fashion,4456,5,5,58.65
+55464,44,Male,Seattle,Mobile,Health,4992,6,1,11.24
+43249,63,Other,Seattle,Mobile,Health,3580,7,6,5.84
+51999,28,Other,San Francisco,Desktop,Fashion,6811,4,4,15.75
+35018,36,Female,Los Angeles,Desktop,Gaming,2980,5,5,12.93
+12625,60,Female,Dallas,Mobile,Automotive,2726,8,8,57.13
+36867,20,Other,Miami,Desktop,Tech,4952,10,1,32.22
+67325,30,Male,Boston,Tablet,Tech,2941,6,0,12.87
+49524,41,Male,New York,Mobile,Food,4237,5,5,37.42
+21732,54,Male,Houston,Mobile,Tech,2943,5,5,46.67
+74371,47,Female,Dallas,Tablet,Gaming,3929,9,0,23.79
+94647,54,Male,Chicago,Mobile,Fashion,2091,8,5,30.47
+94014,21,Male,Seattle,Desktop,Finance,2672,8,5,1.21
+76506,59,Other,Seattle,Desktop,Travel,7994,1,0,50.21
+23621,20,Male,Los Angeles,Desktop,Automotive,6705,6,4,22.22
+33662,42,Other,Los Angeles,Desktop,Fashion,3887,9,1,46.05
+85762,34,Female,Houston,Mobile,Gaming,2540,9,8,2.15
+93923,43,Male,Chicago,Tablet,Education,5275,1,1,36.22
+30092,26,Other,San Francisco,Tablet,Automotive,7504,3,0,53.38
+66552,61,Female,Boston,Tablet,Fashion,3766,9,7,22.31
+32798,30,Other,Chicago,Desktop,Education,2508,2,1,57.81
+27021,59,Male,Los Angeles,Tablet,Automotive,8430,1,1,19.5
+51038,35,Female,Boston,Desktop,Health,8665,10,5,15.89
+80027,57,Other,Houston,Mobile,Travel,3307,2,1,57.81
+15233,41,Other,Chicago,Desktop,Automotive,9298,3,1,10.06
+50608,61,Other,Miami,Tablet,Education,6116,7,5,4.88
+91443,61,Other,Denver,Mobile,Gaming,8823,8,2,13.15
+88447,60,Female,Boston,Mobile,Education,1401,10,7,35.47
+22990,37,Female,Chicago,Desktop,Finance,3740,8,1,42.57
+25792,20,Male,Boston,Mobile,Education,5763,7,0,18.07
+75461,30,Other,New York,Tablet,Automotive,2311,7,3,18.07
+72040,21,Other,Seattle,Mobile,Education,6151,8,8,31.84
+55159,31,Female,Los Angeles,Desktop,Fashion,2505,6,1,24.53
+32146,49,Other,Houston,Mobile,Food,6900,5,5,8.84
+96199,33,Female,New York,Desktop,Gaming,5356,6,2,20.98
+53285,53,Other,San Francisco,Mobile,Gaming,4799,1,0,40.75
+88149,59,Female,Miami,Desktop,Fashion,6980,1,0,46.55
+84093,44,Female,Houston,Mobile,Food,8161,1,0,32.8
+46215,44,Female,Los Angeles,Mobile,Education,9815,4,4,40.17
+93372,58,Other,New York,Mobile,Fashion,1816,4,0,59.59
+36102,62,Male,Dallas,Tablet,Finance,2814,9,5,10.89
+94819,57,Other,Los Angeles,Mobile,Travel,5894,3,1,44.17
+34422,36,Female,Houston,Desktop,Gaming,5667,6,1,51.99
+57168,26,Male,Los Angeles,Tablet,Entertainment,5730,7,4,26.34
+85973,56,Female,Seattle,Mobile,Finance,5358,4,4,32.58
+22761,26,Other,Chicago,Desktop,Automotive,5562,1,1,43.7
+54893,21,Female,Los Angeles,Mobile,Food,1194,1,0,20.01
+20658,22,Male,Miami,Mobile,Food,9854,4,1,45.34
+38070,25,Male,Los Angeles,Desktop,Entertainment,7733,7,7,5.91
+86468,56,Other,Los Angeles,Mobile,Travel,8957,4,2,48.39
+88228,40,Other,Denver,Mobile,Food,4280,1,1,32.96
+85907,56,Other,Dallas,Mobile,Finance,9408,2,0,26.41
+17590,23,Male,Los Angeles,Desktop,Finance,6963,10,1,14.11
+59465,49,Female,Boston,Tablet,Health,6923,8,0,1.01
+89556,37,Male,Dallas,Desktop,Travel,1960,3,3,20.86
+15580,38,Female,San Francisco,Mobile,Finance,8391,8,6,17.13
+75964,52,Other,Houston,Tablet,Fashion,7751,3,2,55.56
+52151,50,Male,San Francisco,Mobile,Gaming,6147,3,1,17.39
+11552,32,Male,Los Angeles,Desktop,Automotive,4424,9,7,18.72
+84310,23,Other,Boston,Desktop,Entertainment,3122,5,3,24.12
+35495,34,Other,San Francisco,Desktop,Automotive,5684,2,1,4.06
+99335,56,Other,Houston,Mobile,Finance,5367,6,3,26.58
+85323,45,Other,New York,Tablet,Entertainment,2195,8,6,2.81
+93863,39,Male,New York,Mobile,Automotive,9664,7,7,38.75
+36995,27,Female,New York,Mobile,Fashion,4037,2,1,43.69
+93598,47,Male,Denver,Tablet,Gaming,5994,10,1,1.15
+92697,61,Female,New York,Tablet,Travel,1379,9,6,28.32
+24114,55,Other,Boston,Mobile,Entertainment,4387,3,0,5.79
+66422,44,Other,New York,Tablet,Travel,6908,1,1,48.98
+43752,39,Female,Los Angeles,Desktop,Education,8386,7,0,53.88
+66751,48,Female,San Francisco,Tablet,Gaming,1801,8,6,56.16
+51678,29,Other,Seattle,Desktop,Gaming,9534,8,4,49.71
+65776,19,Male,Denver,Tablet,Fashion,7548,2,1,16.28
+31655,44,Other,Denver,Desktop,Gaming,1337,3,3,23.58
+76810,53,Female,Dallas,Mobile,Finance,3815,2,0,47.67
+23956,58,Other,Los Angeles,Mobile,Automotive,4200,9,6,42.07
+62830,19,Other,Chicago,Tablet,Fashion,3134,7,3,13.95
+75112,34,Female,Miami,Mobile,Entertainment,3111,5,1,31.09
+51484,18,Female,Los Angeles,Desktop,Fashion,7690,10,10,23.29
+76344,27,Other,San Francisco,Tablet,Automotive,8382,1,1,42.34
+38444,31,Female,Los Angeles,Tablet,Education,7743,4,1,49.8
+37209,32,Male,San Francisco,Tablet,Travel,9031,6,0,40.46
+32877,53,Male,Denver,Desktop,Health,5778,5,3,58.41
+53940,20,Female,Dallas,Mobile,Finance,2078,6,5,1.51
+95801,29,Female,Seattle,Tablet,Finance,9832,9,8,2.6
+63525,54,Other,Miami,Desktop,Education,9328,7,1,30.75
+27232,21,Female,New York,Tablet,Travel,8148,9,3,19.63
+35689,34,Female,Chicago,Tablet,Travel,3049,5,4,26.73
+82031,58,Other,Houston,Mobile,Education,7977,3,0,43.5
+84965,24,Other,Dallas,Desktop,Food,6383,8,6,43.94
+23911,52,Other,Chicago,Desktop,Gaming,8906,9,7,28.87
+18208,63,Male,Chicago,Tablet,Education,5374,5,4,51.66
+44614,45,Female,Chicago,Desktop,Automotive,4420,5,5,54.45
+24860,43,Male,Chicago,Tablet,Automotive,6932,2,2,26.87
+71184,40,Other,Boston,Tablet,Health,8414,7,3,55.76
+68849,55,Male,Chicago,Desktop,Education,4140,4,4,14.48
+37292,47,Other,Denver,Mobile,Education,8868,1,0,34.36
+74426,62,Other,Houston,Desktop,Entertainment,4125,4,0,32.57
+40461,53,Other,Dallas,Desktop,Travel,2859,5,1,29.26
+56590,38,Female,Dallas,Mobile,Travel,4905,3,3,57.03
+26318,41,Other,Boston,Tablet,Health,2216,4,2,25.07
+45032,19,Male,New York,Desktop,Health,4703,9,5,52.96
+90172,33,Female,Miami,Tablet,Entertainment,7430,10,2,57.2
+93121,33,Male,Miami,Desktop,Travel,9580,5,1,13.78
+83845,62,Female,New York,Tablet,Health,3439,4,1,55.94
+76441,23,Female,Denver,Tablet,Gaming,1969,3,1,1.89
+76205,49,Male,Dallas,Desktop,Health,7244,3,0,6.02
+74958,63,Other,Chicago,Tablet,Gaming,5087,2,1,42.24
+79772,51,Other,Denver,Desktop,Education,6934,4,3,8.3
+34378,35,Male,Dallas,Mobile,Tech,3277,10,5,59.14
+72202,25,Female,Chicago,Mobile,Fashion,1640,2,1,15.31
+28121,54,Male,Miami,Tablet,Travel,6723,2,2,28.89
+95234,50,Male,New York,Mobile,Education,9234,2,1,11.92
+96102,18,Female,Dallas,Mobile,Tech,9837,6,2,3.75
+23358,55,Other,Seattle,Tablet,Automotive,6167,5,5,47.15
+21659,25,Male,Denver,Desktop,Gaming,4958,2,1,52.59
+95451,29,Female,Chicago,Mobile,Finance,4862,5,2,4.93
+39796,48,Male,Miami,Mobile,Finance,9959,3,2,22.29
+61082,39,Female,New York,Desktop,Fashion,4152,3,0,40.73
+67176,30,Female,Miami,Tablet,Automotive,1384,3,2,35.71
+31257,34,Female,Seattle,Desktop,Gaming,2309,5,4,26.48
+97804,39,Female,Seattle,Desktop,Automotive,5627,4,4,32.62
+45308,42,Other,New York,Tablet,Education,6250,2,2,47.09
+85820,36,Female,Miami,Mobile,Health,6189,9,6,57.24
+56500,54,Female,San Francisco,Tablet,Food,6731,6,1,52.38
+86367,52,Other,Miami,Tablet,Entertainment,1769,6,2,24.5
+16328,50,Male,Houston,Mobile,Education,8518,2,1,52.04
+11734,52,Other,Dallas,Tablet,Tech,6270,2,2,49.0
+54721,62,Male,Houston,Mobile,Education,9897,5,4,22.49
+34342,47,Other,Los Angeles,Tablet,Food,8046,4,0,28.11
+55770,49,Other,New York,Mobile,Entertainment,3094,10,5,55.88
+98199,41,Female,Houston,Mobile,Food,1201,5,4,49.66
+52535,27,Female,Seattle,Desktop,Education,9207,8,6,0.96
+89308,26,Female,Seattle,Tablet,Education,6221,8,1,12.18
+10134,18,Other,Seattle,Desktop,Automotive,1828,7,6,39.93
+22978,21,Female,Houston,Mobile,Tech,5272,1,0,59.96
+34620,55,Other,Boston,Tablet,Tech,6861,5,2,2.26
+10079,35,Other,Boston,Desktop,Finance,7745,2,2,6.07
+94369,59,Female,Seattle,Mobile,Automotive,2491,9,0,31.62
+99698,53,Other,Denver,Desktop,Gaming,2466,6,5,54.58
+56008,37,Female,Chicago,Mobile,Finance,9934,5,3,42.54
+65493,49,Female,Chicago,Mobile,Tech,6408,1,1,15.12
+18406,27,Other,Los Angeles,Desktop,Health,9369,7,3,9.85
+23237,60,Male,Los Angeles,Mobile,Food,5265,6,5,46.65
+53764,52,Male,Dallas,Mobile,Travel,7806,1,0,35.07
+58973,23,Female,Seattle,Mobile,Automotive,2776,9,3,29.33
+22350,52,Male,Dallas,Mobile,Fashion,3417,10,2,42.15
+31372,63,Male,San Francisco,Tablet,Finance,5503,6,6,28.04
+65706,41,Male,Seattle,Tablet,Finance,3206,4,1,51.02
+18628,37,Female,San Francisco,Mobile,Health,8425,5,2,7.5
+17685,27,Male,Los Angeles,Desktop,Tech,5181,5,5,44.67
+72193,49,Other,Seattle,Mobile,Finance,6522,6,5,19.16
+52904,34,Female,Denver,Tablet,Fashion,6604,4,4,24.42
+77392,20,Male,Chicago,Mobile,Finance,9162,8,4,9.55
+11452,22,Female,Los Angeles,Mobile,Automotive,6354,5,0,6.13
+82148,41,Female,Miami,Tablet,Finance,7633,4,3,9.45
+36612,60,Other,Denver,Desktop,Education,9767,6,1,5.75
+51970,20,Male,San Francisco,Desktop,Travel,5745,6,1,1.97
+33034,18,Female,Chicago,Desktop,Education,4278,8,8,27.99
+41472,21,Female,Houston,Tablet,Entertainment,8173,1,1,16.84
+25023,52,Other,Denver,Mobile,Finance,1623,6,6,31.27
+35872,58,Male,San Francisco,Tablet,Education,9342,8,8,35.59
+23843,48,Female,Dallas,Desktop,Fashion,4248,9,1,4.92
+32018,33,Female,New York,Tablet,Health,9026,5,2,28.27
+16126,25,Other,Dallas,Desktop,Education,3481,4,2,44.64
+19428,27,Male,Dallas,Mobile,Automotive,2278,6,4,45.84
+14861,65,Female,San Francisco,Tablet,Entertainment,8035,3,3,40.96
+77502,52,Male,Miami,Desktop,Fashion,9323,6,1,55.16
+25387,41,Female,Dallas,Desktop,Education,7391,7,3,3.18
+70436,48,Female,Chicago,Tablet,Automotive,6695,9,3,8.27
+14560,55,Female,Miami,Tablet,Entertainment,9910,1,1,4.37
+17447,28,Female,New York,Mobile,Automotive,3260,6,5,26.84
+30730,34,Other,Houston,Desktop,Entertainment,9769,7,6,55.74
+95900,50,Female,Boston,Desktop,Education,3937,8,6,16.38
+66295,36,Other,Chicago,Desktop,Education,7297,5,4,46.79
+36524,41,Female,New York,Mobile,Entertainment,5260,1,0,55.5
+23999,59,Male,Dallas,Mobile,Automotive,5719,10,7,15.57
+16933,44,Male,San Francisco,Mobile,Education,1487,4,1,51.38
+22487,44,Other,Denver,Desktop,Travel,8052,10,4,35.53
+26840,62,Other,Miami,Tablet,Travel,7531,8,2,7.44
+54444,45,Male,Denver,Tablet,Travel,4103,7,2,36.72
+31306,36,Other,Los Angeles,Mobile,Entertainment,2177,6,3,56.96
+51566,39,Male,New York,Desktop,Health,5388,8,5,57.62
+18669,21,Male,Boston,Tablet,Travel,2008,6,1,0.91
+49525,44,Other,Houston,Desktop,Travel,1376,3,1,7.28
+70116,42,Female,Los Angeles,Desktop,Tech,3910,10,4,13.13
+64251,53,Female,Boston,Tablet,Entertainment,5000,1,1,25.38
+68880,24,Other,Denver,Tablet,Health,3592,10,10,29.23
+45719,63,Female,San Francisco,Mobile,Automotive,9539,10,5,47.96
+19571,61,Male,New York,Mobile,Fashion,1187,7,2,44.62
+85302,60,Male,San Francisco,Desktop,Entertainment,4594,9,2,17.04
+26129,57,Male,Denver,Mobile,Travel,8678,4,1,55.08
+43056,23,Other,Miami,Tablet,Entertainment,8463,8,5,10.6
+26076,25,Other,Chicago,Mobile,Education,9275,4,0,18.12
+99399,45,Other,Denver,Mobile,Health,8804,6,0,39.33
+74957,45,Other,Dallas,Tablet,Automotive,2753,10,6,24.41
+96561,53,Male,San Francisco,Mobile,Food,3695,4,2,12.8
+80123,34,Female,Los Angeles,Tablet,Entertainment,6876,5,5,16.81
+57559,54,Male,Dallas,Tablet,Finance,6156,8,7,2.83
+83349,38,Other,San Francisco,Mobile,Travel,9965,10,7,19.26
+17895,31,Other,Dallas,Desktop,Health,7276,7,0,37.48
+79914,65,Male,Miami,Tablet,Tech,8002,1,1,21.97
+43520,41,Female,Dallas,Tablet,Gaming,4477,3,2,2.73
+76326,40,Other,Denver,Tablet,Fashion,4410,7,2,18.44
+84986,19,Other,San Francisco,Mobile,Education,6756,1,0,8.83
+80732,22,Female,Chicago,Mobile,Fashion,4950,2,1,29.18
+79500,22,Male,San Francisco,Desktop,Education,9165,3,1,6.88
+94442,31,Other,Chicago,Tablet,Health,6361,3,1,49.36
+97393,28,Female,Los Angeles,Mobile,Education,7563,6,3,9.45
+19776,21,Male,Miami,Mobile,Tech,9351,3,2,23.09
+58580,59,Male,New York,Mobile,Travel,2888,3,2,54.63
+55269,57,Other,Miami,Mobile,Food,6100,6,6,37.92
+14179,49,Other,New York,Desktop,Entertainment,4610,1,0,39.4
+64116,34,Male,Seattle,Mobile,Travel,1195,10,0,37.13
+59428,58,Other,Boston,Mobile,Education,7926,10,3,34.11
+27190,62,Other,Los Angeles,Tablet,Health,7660,10,7,36.52
+42360,34,Male,San Francisco,Tablet,Fashion,4780,2,0,58.78
+78927,26,Other,Dallas,Desktop,Gaming,1907,9,0,2.52
+20887,40,Male,Boston,Desktop,Education,9403,7,6,57.74
+59797,30,Female,San Francisco,Desktop,Entertainment,3224,8,5,49.87
+87855,23,Female,Houston,Mobile,Education,4040,6,0,32.25
+96778,39,Other,Dallas,Tablet,Fashion,9290,4,0,40.31
+27607,53,Male,Chicago,Mobile,Fashion,4685,8,8,2.5
+78439,53,Other,Miami,Desktop,Finance,9592,4,3,17.86
+77701,35,Male,Boston,Desktop,Health,4900,7,7,7.98
+41264,58,Other,San Francisco,Mobile,Travel,1009,10,1,42.48
+23847,26,Male,Dallas,Tablet,Food,3156,2,1,41.15
+46398,34,Other,Seattle,Desktop,Food,5974,9,0,53.29
+19381,42,Other,Chicago,Mobile,Entertainment,5813,5,0,47.0
+44495,50,Female,Los Angeles,Mobile,Tech,8462,8,1,21.99
+33770,43,Female,Dallas,Tablet,Automotive,4958,10,8,51.17
+78757,36,Other,Houston,Mobile,Automotive,8417,9,1,22.09
+44041,55,Male,Dallas,Mobile,Entertainment,6298,10,8,57.54
+87861,45,Male,Chicago,Desktop,Gaming,8595,2,0,34.78
+60980,43,Female,Miami,Mobile,Tech,3703,7,6,3.98
+40734,42,Female,Boston,Desktop,Tech,4922,6,2,5.11
+62849,22,Male,Seattle,Desktop,Travel,4494,5,0,18.01
+57017,18,Female,Los Angeles,Desktop,Health,1609,1,1,13.28
+63003,51,Other,Boston,Desktop,Fashion,9279,1,1,42.62
+46842,31,Male,Seattle,Tablet,Tech,3641,3,1,56.91
+96547,28,Female,Seattle,Desktop,Health,7577,5,3,46.63
+11558,33,Female,Chicago,Desktop,Entertainment,7752,10,8,34.94
+83720,34,Other,Miami,Tablet,Automotive,1207,5,5,59.43
+26180,39,Male,Denver,Tablet,Education,2386,4,4,38.85
+65290,44,Other,Chicago,Desktop,Education,1280,9,7,39.49
+54074,23,Male,San Francisco,Tablet,Finance,4897,1,1,53.05
+22765,27,Male,Denver,Desktop,Fashion,3535,7,6,57.17
+67957,61,Female,Miami,Mobile,Food,3916,6,5,55.1
+15599,30,Male,Seattle,Desktop,Fashion,5371,5,5,26.15
+87403,35,Female,Chicago,Mobile,Entertainment,1393,5,1,18.91
+33535,49,Other,Denver,Mobile,Health,2401,1,1,53.8
+51495,23,Female,Boston,Mobile,Gaming,8075,6,0,7.0
+83935,43,Male,Seattle,Mobile,Entertainment,9128,4,1,30.55
+70265,57,Other,Boston,Tablet,Gaming,9929,10,9,50.94
+34202,51,Male,San Francisco,Tablet,Food,5225,4,2,41.18
+95645,29,Male,San Francisco,Desktop,Finance,5381,3,2,5.87
+56607,34,Male,Seattle,Desktop,Fashion,4627,9,9,8.66
+43694,35,Female,Dallas,Mobile,Travel,3790,7,5,52.5
+60187,37,Other,Dallas,Tablet,Food,1282,5,1,27.48
+25106,55,Female,Houston,Mobile,Gaming,1553,2,0,29.02
+10738,50,Other,Chicago,Tablet,Health,6208,6,6,28.54
+15677,18,Other,Seattle,Tablet,Education,4765,8,0,4.3
+27633,56,Other,Los Angeles,Tablet,Education,1246,5,4,54.95
+96331,24,Female,Seattle,Desktop,Fashion,1476,1,0,49.34
+60980,53,Male,Houston,Tablet,Travel,6229,1,1,45.34
+81858,41,Other,New York,Tablet,Entertainment,8308,9,1,5.56
+36226,24,Male,Los Angeles,Mobile,Tech,9420,1,0,49.15
+19587,62,Female,Los Angeles,Mobile,Education,3233,1,1,35.08
+92698,27,Other,Chicago,Tablet,Fashion,1337,7,6,46.92
+22575,39,Other,New York,Desktop,Finance,7760,10,10,4.1
+80537,26,Other,New York,Mobile,Education,9697,1,0,30.26
+48031,26,Other,New York,Tablet,Automotive,7841,8,2,52.17
+51719,48,Other,Denver,Desktop,Entertainment,7412,9,3,8.07
+63306,64,Female,Los Angeles,Tablet,Finance,5669,10,10,38.05
+38953,45,Other,Los Angeles,Tablet,Finance,8951,4,1,41.17
+37714,23,Male,New York,Mobile,Travel,2778,9,5,26.38
+81244,56,Female,Denver,Tablet,Entertainment,2525,1,0,46.56
+37428,34,Female,Seattle,Desktop,Tech,5086,2,2,39.79
+16513,51,Female,New York,Mobile,Education,4693,3,0,6.12
+80358,25,Female,San Francisco,Mobile,Finance,3070,7,6,47.1
+11242,42,Other,New York,Desktop,Health,9744,1,0,15.91
+32841,57,Female,San Francisco,Tablet,Automotive,1138,10,2,24.69
+94696,62,Other,Seattle,Tablet,Travel,4387,2,2,23.98
+58725,30,Other,Miami,Mobile,Gaming,3192,6,1,4.81
+34010,58,Male,New York,Tablet,Finance,5985,2,0,1.92
+42034,65,Other,San Francisco,Mobile,Education,9587,2,0,36.05
+90672,65,Female,San Francisco,Tablet,Fashion,7169,9,1,25.9
+44655,62,Female,Houston,Mobile,Fashion,4231,9,2,32.04
+14994,49,Female,Miami,Tablet,Tech,4448,9,6,5.16
+72170,34,Female,Chicago,Desktop,Education,2955,3,2,18.55
+70835,38,Male,Denver,Desktop,Finance,1517,9,5,17.87
+24732,46,Male,Dallas,Tablet,Automotive,2077,3,2,20.09
+60986,35,Male,Seattle,Desktop,Health,8766,1,1,45.96
+76729,55,Female,Seattle,Desktop,Finance,3223,4,1,1.74
+58183,52,Other,Miami,Mobile,Food,4264,10,3,24.9
+95625,38,Female,Denver,Desktop,Finance,9390,6,3,15.97
+17563,47,Other,San Francisco,Mobile,Health,3719,6,6,36.4
+44023,35,Female,Seattle,Desktop,Tech,4273,2,1,56.33
+97925,63,Female,Dallas,Tablet,Travel,5519,10,6,5.71
+73217,40,Other,San Francisco,Mobile,Automotive,9213,9,5,36.35
+12905,27,Other,Dallas,Mobile,Education,2210,1,1,15.23
+35995,54,Male,Dallas,Mobile,Food,3638,10,5,1.89
+72063,59,Other,Dallas,Desktop,Travel,9678,6,3,3.22
+15456,52,Male,Houston,Desktop,Entertainment,6387,9,9,1.24
+15375,49,Other,Denver,Mobile,Education,4364,2,0,33.47
+20557,25,Other,Seattle,Mobile,Education,4372,9,5,14.17
+10345,59,Other,San Francisco,Tablet,Finance,5773,8,5,16.1
+66590,57,Other,Miami,Desktop,Tech,5694,1,0,7.89
+22928,51,Male,New York,Tablet,Fashion,6459,8,4,14.98
+88207,36,Female,Seattle,Tablet,Entertainment,3257,4,1,30.6
+27968,62,Male,Boston,Mobile,Gaming,5541,7,6,38.02
+80449,58,Female,Denver,Desktop,Gaming,3725,8,2,50.92
+41873,19,Other,New York,Desktop,Gaming,5742,7,6,35.8
+94897,20,Other,Denver,Mobile,Health,4495,10,3,31.27
+47027,39,Other,San Francisco,Tablet,Health,4230,2,2,30.81
+56775,41,Female,Dallas,Mobile,Gaming,9424,10,10,39.22
+77117,29,Female,Chicago,Mobile,Food,9672,1,0,42.74
+37349,43,Male,Seattle,Tablet,Health,8273,7,6,55.79
+33959,47,Other,Los Angeles,Tablet,Finance,9392,5,5,7.06
+89569,52,Female,Denver,Desktop,Health,3458,10,5,10.41
+15390,28,Male,Boston,Desktop,Health,8788,8,6,37.56
+27752,63,Male,Boston,Desktop,Food,3171,9,2,12.8
+42488,32,Female,Houston,Desktop,Automotive,3686,6,2,4.12
+71888,21,Other,San Francisco,Mobile,Entertainment,6658,1,0,40.2
+26153,41,Male,San Francisco,Mobile,Tech,8746,3,2,51.63
+17079,50,Other,Seattle,Desktop,Food,3026,6,6,32.66
+55564,64,Female,Chicago,Mobile,Fashion,3299,3,2,46.49
+81298,40,Male,San Francisco,Tablet,Entertainment,1857,6,4,38.86
+19169,63,Other,Houston,Mobile,Health,4136,5,2,43.49
+93183,39,Male,Denver,Desktop,Automotive,8683,10,4,15.86
+10917,63,Other,Los Angeles,Tablet,Travel,4570,1,0,16.66
+19288,20,Other,Chicago,Desktop,Fashion,5718,2,2,45.29
+72117,18,Female,Houston,Desktop,Health,8271,7,1,44.68
+28803,32,Female,San Francisco,Mobile,Fashion,8044,7,1,40.32
+93538,64,Female,New York,Desktop,Fashion,9811,7,3,3.36
+58656,28,Other,Houston,Mobile,Entertainment,2762,7,4,48.21
+50927,57,Female,Seattle,Desktop,Gaming,4881,10,7,59.25
+91942,34,Male,Chicago,Tablet,Automotive,2065,7,7,53.26
+13421,31,Female,Seattle,Tablet,Travel,2637,4,0,18.28
+22917,62,Male,Los Angeles,Tablet,Food,3585,8,1,27.43
+25247,22,Female,Denver,Tablet,Health,7389,9,1,59.18
+49330,23,Male,Chicago,Desktop,Fashion,2612,8,4,49.27
+42070,46,Female,Los Angeles,Mobile,Health,8040,1,1,44.98
+81055,34,Male,Seattle,Desktop,Health,7465,5,0,20.39
+49657,38,Other,Dallas,Desktop,Health,5335,2,0,12.52
+68584,43,Other,Denver,Desktop,Finance,5293,9,3,42.14
+81176,60,Female,Boston,Desktop,Fashion,4719,1,1,27.87
+87156,28,Female,Miami,Mobile,Automotive,1050,10,10,37.41
+98769,21,Female,Houston,Mobile,Travel,8977,2,1,40.5
+53541,42,Male,Dallas,Tablet,Food,8569,9,6,46.59
+61456,50,Other,Denver,Mobile,Entertainment,3366,3,3,14.46
+96609,36,Male,Miami,Mobile,Gaming,3030,10,7,29.88
+54354,21,Female,Boston,Tablet,Tech,9019,6,5,50.03
+35305,57,Male,Seattle,Mobile,Travel,1364,5,0,17.3
+64300,53,Female,Houston,Tablet,Automotive,1285,8,4,0.95
+41728,23,Female,Chicago,Mobile,Finance,6858,7,1,46.85
+54284,30,Other,New York,Tablet,Food,7339,8,8,48.51
+92861,54,Male,Chicago,Desktop,Food,9057,10,4,30.63
+77311,36,Female,Denver,Desktop,Tech,8273,10,6,55.92
+59411,40,Other,Los Angeles,Tablet,Fashion,1995,4,2,27.6
+84954,28,Male,Miami,Tablet,Health,6161,8,2,18.98
+87894,62,Male,Dallas,Desktop,Health,8862,5,3,31.41
+24135,56,Male,Los Angeles,Tablet,Finance,5910,9,9,16.55
+10860,36,Other,Dallas,Tablet,Food,1104,8,2,20.53
+34908,38,Other,Denver,Mobile,Entertainment,2844,6,2,5.13
+23010,53,Other,Boston,Mobile,Travel,1388,6,3,5.89
+18109,50,Other,New York,Mobile,Education,2544,4,2,28.66
+43335,31,Male,Houston,Tablet,Health,5508,7,2,25.76
+70732,45,Female,Seattle,Mobile,Fashion,1134,7,3,42.94
+24774,18,Other,Denver,Mobile,Entertainment,7656,8,5,49.37
+94243,60,Male,Los Angeles,Mobile,Food,9968,1,0,46.03
+16971,49,Female,Boston,Desktop,Entertainment,1492,2,2,26.15
+47972,55,Other,Seattle,Tablet,Fashion,9238,7,6,29.45
+58771,18,Male,Houston,Mobile,Tech,9242,9,9,28.62
+96691,44,Female,New York,Desktop,Entertainment,5935,3,0,5.02
+24124,59,Other,Boston,Tablet,Tech,3184,4,2,51.35
+16397,63,Male,Denver,Mobile,Food,3695,8,2,20.29
+26447,59,Other,Boston,Mobile,Food,5574,9,6,34.68
+78945,30,Female,Boston,Desktop,Fashion,4376,7,0,30.35
+32596,41,Female,Houston,Desktop,Travel,9630,10,6,50.18
+39786,53,Male,Dallas,Tablet,Travel,5721,7,3,2.39
+15802,45,Other,Miami,Desktop,Health,5933,6,3,14.91
+95954,35,Female,San Francisco,Tablet,Finance,2325,2,0,10.63
+52170,51,Other,New York,Mobile,Health,4665,2,0,34.49
+59526,60,Other,Chicago,Mobile,Gaming,9584,9,3,30.37
+91298,61,Male,Seattle,Mobile,Automotive,3402,9,4,33.4
+47093,40,Other,New York,Desktop,Gaming,5068,6,5,22.86
+10578,49,Male,Denver,Mobile,Food,8265,2,1,50.38
+10975,22,Other,New York,Desktop,Travel,5959,5,1,44.18
+55508,51,Male,Houston,Tablet,Health,1137,5,1,42.43
+30760,65,Male,Dallas,Tablet,Automotive,4109,3,2,10.91
+86759,52,Female,Dallas,Desktop,Fashion,8153,10,10,33.37
+85609,51,Other,Denver,Desktop,Gaming,4205,10,7,35.09
+74587,21,Other,Chicago,Tablet,Finance,8849,10,0,36.23
+86567,54,Male,Seattle,Mobile,Automotive,1713,6,3,24.78
+10262,44,Female,Los Angeles,Tablet,Travel,4437,7,5,17.68
+25098,30,Male,New York,Desktop,Entertainment,1581,8,5,13.93
+80047,19,Other,Denver,Tablet,Education,4580,9,6,40.88
+61078,26,Other,Denver,Desktop,Tech,6297,5,0,48.85
+72951,21,Other,Miami,Mobile,Tech,4642,5,5,34.45
+27334,47,Other,Dallas,Desktop,Tech,6147,4,4,19.63
+11157,44,Other,New York,Mobile,Travel,5778,6,6,1.42
+14611,23,Male,Houston,Mobile,Entertainment,3365,8,7,9.01
+22401,32,Male,Denver,Tablet,Education,8741,9,7,27.72
+90828,57,Other,Los Angeles,Desktop,Entertainment,1900,3,2,51.89
+72087,50,Other,Los Angeles,Mobile,Food,3600,4,1,17.51
+93769,57,Other,Houston,Tablet,Entertainment,3232,2,1,53.0
+64985,36,Other,Seattle,Mobile,Gaming,9161,4,0,28.99
+93775,52,Other,Denver,Desktop,Food,1871,8,1,57.73
+27158,33,Female,New York,Tablet,Education,7184,8,5,17.25
+64475,29,Other,Houston,Tablet,Fashion,1857,8,7,36.72
+86583,60,Female,Boston,Mobile,Finance,1834,6,1,22.01
+50642,54,Male,Miami,Tablet,Automotive,8062,7,2,16.16
+32423,40,Female,Miami,Mobile,Fashion,6461,1,0,49.32
+16881,30,Male,Boston,Tablet,Health,6450,2,1,14.53
+76204,33,Other,Seattle,Tablet,Fashion,7540,4,0,7.74
+46723,56,Female,New York,Desktop,Automotive,7386,7,3,57.72
+49368,40,Other,Seattle,Desktop,Gaming,7433,8,4,22.8
+80313,21,Female,Boston,Desktop,Education,2875,4,2,25.63
+92276,50,Female,Houston,Mobile,Entertainment,5655,10,1,0.68
+98460,30,Male,Los Angeles,Mobile,Gaming,5758,1,0,0.82
+70047,44,Female,Houston,Tablet,Automotive,1575,6,3,41.56
+42134,24,Other,San Francisco,Tablet,Gaming,3625,7,6,31.84
+65635,36,Male,San Francisco,Mobile,Education,3496,10,6,39.78
+88751,32,Male,Seattle,Mobile,Food,9825,5,5,25.05
+91687,36,Female,Chicago,Mobile,Finance,5682,6,1,1.24
+62419,65,Other,Los Angeles,Tablet,Entertainment,2395,6,0,52.58
+55938,32,Male,Chicago,Tablet,Education,4692,4,4,25.34
+58107,33,Female,Seattle,Mobile,Fashion,1079,6,2,32.72
+43215,30,Male,Los Angeles,Desktop,Finance,9918,4,1,17.3
+86735,39,Female,Denver,Mobile,Tech,5547,6,0,56.34
+51845,53,Other,San Francisco,Tablet,Tech,7274,7,3,48.75
+37006,53,Male,Boston,Tablet,Fashion,6839,7,6,16.15
+31149,63,Other,Seattle,Tablet,Travel,3619,7,6,50.12
+23829,43,Male,Denver,Mobile,Education,5138,9,5,8.01
+24141,45,Male,New York,Mobile,Automotive,3471,4,1,48.9
+67019,52,Female,Chicago,Mobile,Automotive,7467,6,6,7.57
+65042,48,Other,Seattle,Tablet,Automotive,4849,2,0,44.96
+88628,40,Male,Denver,Desktop,Education,7365,4,4,55.92
+64795,27,Female,Los Angeles,Mobile,Travel,2098,2,1,46.26
+15405,19,Female,Miami,Tablet,Gaming,1144,2,1,17.24
+30906,63,Male,Houston,Tablet,Tech,7726,6,1,21.95
+58757,63,Female,Chicago,Tablet,Food,3885,2,1,6.13
+14307,22,Other,Denver,Desktop,Health,6484,10,4,24.58
+87049,29,Female,Dallas,Tablet,Travel,6451,1,1,45.28
+76925,30,Other,New York,Tablet,Food,8192,2,0,24.48
+45540,42,Female,Boston,Desktop,Tech,1734,9,2,56.41
+96107,50,Male,Houston,Desktop,Health,5303,3,2,24.94
+13927,29,Female,San Francisco,Mobile,Fashion,2620,4,1,25.59
+98114,46,Female,New York,Mobile,Finance,6611,6,0,12.6
+79761,48,Male,Chicago,Mobile,Fashion,4740,10,5,56.04
+32096,33,Other,Chicago,Desktop,Travel,7001,4,3,13.18
+46047,48,Female,Chicago,Mobile,Gaming,4751,1,0,21.71
+49922,60,Male,San Francisco,Desktop,Education,2710,3,0,34.26
+81863,42,Female,Denver,Mobile,Food,3576,10,4,28.94
+66811,20,Other,Dallas,Desktop,Food,9838,4,1,24.53
+27319,48,Other,San Francisco,Tablet,Education,8736,8,8,17.21
+64572,61,Female,Denver,Mobile,Gaming,8451,3,1,41.21
+86646,24,Male,San Francisco,Tablet,Tech,7807,4,0,14.53
+46247,29,Female,Seattle,Tablet,Food,4883,2,0,39.25
+72667,30,Male,Chicago,Desktop,Fashion,1244,4,3,50.58
+50336,62,Male,Boston,Mobile,Travel,6642,5,5,31.55
+77366,25,Male,Dallas,Desktop,Tech,9383,1,1,37.18
+88872,61,Other,San Francisco,Tablet,Automotive,5428,8,8,2.69
+17614,54,Male,Houston,Tablet,Education,4114,10,3,28.28
+63999,54,Other,Dallas,Desktop,Education,7055,9,6,53.38
+28737,55,Male,Seattle,Desktop,Tech,2809,5,1,19.11
+24565,50,Other,Miami,Tablet,Fashion,7733,10,10,9.65
+97121,56,Female,Los Angeles,Tablet,Finance,3984,8,0,52.74
+10997,29,Male,Miami,Tablet,Finance,1745,7,5,43.78
+53639,35,Other,San Francisco,Desktop,Fashion,5314,6,5,35.43
+65627,53,Male,Chicago,Mobile,Fashion,5176,10,8,36.89
+65664,35,Female,Miami,Mobile,Finance,1251,1,0,49.27
+54883,53,Other,New York,Mobile,Tech,9413,7,3,31.59
+61370,50,Female,Los Angeles,Desktop,Gaming,1148,1,1,38.62
+48297,34,Other,Seattle,Tablet,Entertainment,4712,4,0,37.82
+76954,64,Other,Chicago,Mobile,Entertainment,5507,6,4,56.12
+23153,28,Female,Dallas,Tablet,Tech,3987,3,0,34.59
+85524,18,Female,New York,Mobile,Tech,1079,2,0,50.06
+38971,30,Female,Boston,Tablet,Entertainment,3169,8,4,54.1
+89072,36,Male,Houston,Mobile,Gaming,9670,5,4,33.76
+77518,48,Male,Los Angeles,Desktop,Education,5901,10,3,23.16
+81350,33,Other,Chicago,Tablet,Food,5149,2,2,33.49
+40019,34,Female,Denver,Desktop,Entertainment,6709,2,2,32.09
+82466,21,Male,Houston,Desktop,Health,7891,9,7,59.43
+14574,50,Other,Seattle,Desktop,Gaming,6288,6,5,30.42
+82255,42,Female,Houston,Mobile,Health,9102,6,2,41.79
+66660,49,Other,New York,Tablet,Finance,3318,1,1,43.46
+74274,53,Female,Seattle,Tablet,Automotive,2762,1,0,29.59
+26607,38,Male,New York,Mobile,Education,7035,1,0,45.46
+72135,20,Female,Los Angeles,Tablet,Travel,7555,4,2,33.74
+12166,28,Female,Denver,Mobile,Gaming,7950,2,0,32.65
+95823,62,Other,Miami,Tablet,Finance,4932,8,5,41.82
+74235,37,Female,Chicago,Tablet,Travel,2717,10,4,20.71
+51613,28,Male,Los Angeles,Tablet,Finance,9062,6,2,50.96
+77354,39,Other,Miami,Tablet,Fashion,6207,8,7,29.24
+54958,41,Male,Houston,Desktop,Gaming,4010,9,0,38.03
+22815,40,Female,Chicago,Mobile,Fashion,1186,6,1,30.87
+34130,44,Female,Seattle,Mobile,Health,4484,4,0,32.64
+83643,64,Female,Miami,Desktop,Entertainment,3234,8,0,54.09
+56629,25,Male,Seattle,Tablet,Finance,2499,5,0,31.97
+20703,63,Male,Houston,Tablet,Automotive,5047,7,3,0.61
+66091,45,Female,Houston,Mobile,Travel,1778,6,3,35.57
+40042,56,Other,Dallas,Desktop,Gaming,7455,10,0,21.33
+61626,42,Other,Boston,Desktop,Fashion,9323,3,3,44.96
+63259,40,Other,Chicago,Tablet,Entertainment,3693,2,2,41.77
+89197,55,Other,Boston,Mobile,Gaming,2145,7,5,14.32
+76495,54,Male,Miami,Mobile,Food,9990,1,0,22.99
+72818,29,Other,Dallas,Mobile,Health,9788,1,1,4.51
+76157,58,Female,Los Angeles,Mobile,Automotive,5518,4,3,59.1
+68662,20,Male,Los Angeles,Mobile,Automotive,4837,9,5,37.97
+87494,40,Male,Seattle,Desktop,Automotive,5371,8,6,59.28
+98657,20,Male,Seattle,Desktop,Tech,8768,7,1,1.37
+69612,19,Male,New York,Tablet,Fashion,4991,7,5,4.52
+29803,65,Female,Denver,Mobile,Automotive,6695,6,1,12.07
+65656,63,Other,Miami,Tablet,Food,2250,7,1,42.56
+38433,46,Other,Boston,Mobile,Automotive,5772,9,2,5.4
+73981,19,Other,Dallas,Desktop,Automotive,6023,3,2,45.11
+32281,28,Male,Denver,Tablet,Entertainment,8136,4,2,41.19
+63328,56,Other,New York,Mobile,Health,4054,5,1,20.09
+50221,48,Male,Houston,Desktop,Health,1678,5,0,57.86
+58626,57,Female,New York,Mobile,Fashion,8288,7,4,16.18
+35372,32,Other,Los Angeles,Tablet,Education,9677,6,2,39.79
+29563,30,Female,Los Angeles,Desktop,Automotive,4269,9,3,4.49
+36477,62,Male,Houston,Tablet,Health,6066,4,2,47.52
+98232,55,Male,Boston,Tablet,Fashion,1192,1,0,3.64
+35569,44,Other,Chicago,Desktop,Automotive,2977,3,0,52.47
+42022,22,Male,Miami,Desktop,Food,7677,5,2,12.98
+79894,61,Male,San Francisco,Tablet,Health,9640,3,3,28.78
+63233,49,Female,Houston,Desktop,Automotive,6880,4,0,36.73
+34806,29,Other,New York,Mobile,Travel,9981,9,6,37.53
+91654,56,Other,Miami,Desktop,Education,8646,4,4,12.81
+75732,28,Male,Chicago,Mobile,Finance,6298,4,1,16.16
+65073,31,Other,Boston,Mobile,Education,4390,9,2,37.75
+98701,62,Male,Boston,Desktop,Fashion,5340,5,3,11.82
+95909,45,Other,Los Angeles,Desktop,Gaming,7174,5,3,39.25
+62250,40,Male,Boston,Tablet,Entertainment,9797,9,8,32.77
+16767,33,Female,Los Angeles,Desktop,Health,6930,5,0,4.47
+95082,59,Male,New York,Mobile,Food,2829,8,0,23.09
+86800,26,Female,New York,Mobile,Travel,3719,7,5,43.49
+85840,56,Female,Dallas,Mobile,Entertainment,9517,10,6,41.71
+39495,55,Female,Seattle,Mobile,Fashion,5829,3,1,49.78
+82417,61,Other,Dallas,Mobile,Education,4167,8,0,30.61
+75149,44,Female,New York,Desktop,Entertainment,7850,9,5,57.55
+72388,54,Male,Boston,Desktop,Entertainment,5895,2,1,57.65
+66429,28,Male,New York,Desktop,Tech,8624,9,3,22.6
+96117,57,Other,Los Angeles,Tablet,Travel,1523,6,1,12.96
+27674,44,Other,Seattle,Tablet,Entertainment,1957,4,0,58.9
+80171,30,Other,New York,Desktop,Education,6460,3,0,28.32
+76523,48,Male,New York,Tablet,Entertainment,7691,8,3,29.19
+39190,49,Other,Miami,Desktop,Health,3166,7,3,48.23
+38098,60,Other,Dallas,Desktop,Education,3545,3,0,26.4
+13899,49,Male,Miami,Desktop,Health,8777,5,5,53.01
+20408,19,Female,Boston,Tablet,Automotive,5966,9,3,26.34
+38356,21,Female,Miami,Mobile,Food,2263,6,3,51.53
+26099,35,Male,Boston,Mobile,Travel,6132,2,0,50.69
+90827,40,Female,Boston,Tablet,Food,5118,6,3,23.02
+31518,61,Other,Miami,Tablet,Tech,3635,10,7,4.86
+59926,65,Female,Denver,Desktop,Entertainment,9101,8,4,59.8
+60242,29,Female,Dallas,Desktop,Tech,4231,5,1,48.7
+22241,39,Female,Seattle,Mobile,Fashion,5230,1,0,11.65
+13138,41,Male,Los Angeles,Mobile,Entertainment,3986,7,4,56.14
+44049,44,Female,Miami,Mobile,Gaming,3630,1,0,57.86
+97277,34,Other,Dallas,Tablet,Health,8311,10,3,48.7
+30975,34,Female,Dallas,Desktop,Automotive,7479,10,3,51.13
+76218,60,Other,Seattle,Desktop,Fashion,2661,1,0,51.11
+29904,27,Male,Miami,Tablet,Fashion,2122,8,7,39.64
+42465,26,Male,Dallas,Tablet,Fashion,8025,3,1,34.09
+94106,27,Female,New York,Desktop,Food,9680,9,1,40.23
+43836,35,Male,Denver,Desktop,Finance,7897,9,1,19.36
+30175,26,Female,Los Angeles,Desktop,Gaming,7081,10,3,29.52
+88271,26,Female,Houston,Desktop,Food,3287,6,1,9.52
+80335,28,Other,Seattle,Mobile,Gaming,8582,2,1,39.25
+20825,63,Female,New York,Desktop,Education,9326,1,0,42.16
+82934,29,Male,Denver,Mobile,Food,3809,1,1,52.66
+25656,33,Other,Chicago,Tablet,Education,2358,5,3,11.83
+75056,41,Other,Boston,Mobile,Automotive,8235,4,0,23.45
+48837,19,Female,Dallas,Tablet,Finance,9550,2,1,33.69
+79456,26,Other,Miami,Mobile,Health,1308,9,8,42.63
+28720,35,Male,Chicago,Tablet,Gaming,2731,10,0,2.33
+49865,18,Other,Houston,Desktop,Automotive,2563,10,7,59.26
+31458,29,Female,Miami,Tablet,Fashion,4139,4,1,59.89
+95925,65,Other,Chicago,Mobile,Tech,4150,8,7,7.19
+25569,22,Female,Boston,Mobile,Health,5930,1,0,5.78
+38951,56,Other,New York,Tablet,Automotive,9382,7,1,18.07
+39304,64,Female,Chicago,Desktop,Entertainment,6466,9,1,56.79
+96696,61,Other,Chicago,Mobile,Tech,7186,10,6,22.52
+49959,42,Other,Boston,Tablet,Food,7852,10,1,53.68
+15369,51,Other,Denver,Desktop,Travel,6535,5,2,13.0
+93875,34,Male,Los Angeles,Mobile,Entertainment,6508,4,1,21.25
+20152,40,Male,Seattle,Tablet,Fashion,2954,10,4,46.29
+92185,60,Other,Los Angeles,Desktop,Food,1538,10,7,0.87
+49900,60,Female,Miami,Desktop,Education,9956,7,3,59.04
+69562,63,Other,New York,Mobile,Entertainment,2810,1,1,48.45
+58097,27,Other,Denver,Desktop,Gaming,5817,4,4,20.68
+39630,58,Other,Seattle,Mobile,Food,2363,4,3,32.17
+64064,46,Female,Dallas,Tablet,Fashion,8147,10,1,24.94
+34322,55,Female,Los Angeles,Desktop,Entertainment,3014,7,3,23.83
+39855,42,Male,Seattle,Desktop,Education,5969,2,0,57.69
+38873,33,Male,Denver,Tablet,Entertainment,6311,9,2,12.36
+86479,55,Other,Boston,Desktop,Health,9271,2,2,59.94
+57130,21,Female,Denver,Mobile,Automotive,5527,4,0,48.28
+28094,32,Other,Boston,Desktop,Finance,5847,3,3,8.2
+12321,63,Female,Houston,Tablet,Food,3992,7,7,56.6
+50442,37,Male,Los Angeles,Desktop,Tech,7027,9,6,9.74
+82794,64,Other,New York,Tablet,Food,3283,4,2,12.7
+21700,39,Other,Miami,Tablet,Gaming,7807,2,1,58.68
+41590,62,Male,Boston,Tablet,Finance,5775,5,5,18.38
+81552,34,Female,San Francisco,Mobile,Fashion,5364,4,0,28.74
+22857,43,Female,Miami,Mobile,Entertainment,1412,6,6,42.74
+12176,47,Female,Denver,Desktop,Travel,1959,8,2,30.1
+96059,42,Female,New York,Tablet,Entertainment,2753,3,2,3.89
+18783,59,Other,Chicago,Mobile,Education,6331,9,4,39.92
+49468,29,Female,Los Angeles,Tablet,Travel,7345,9,1,7.39
+86805,64,Male,Los Angeles,Tablet,Travel,5092,7,6,47.57
+40653,45,Other,Denver,Mobile,Education,7883,4,4,2.24
+85409,64,Other,San Francisco,Desktop,Travel,3468,5,0,12.09
+96365,50,Other,Denver,Desktop,Education,2010,6,5,49.14
+42900,63,Female,Los Angeles,Desktop,Finance,4939,3,3,43.01
+21603,23,Female,Boston,Desktop,Finance,5375,8,3,29.67
+70623,37,Other,Denver,Tablet,Automotive,3774,4,3,30.7
+62362,25,Other,Boston,Tablet,Food,9286,9,8,49.09
+79212,27,Other,San Francisco,Desktop,Health,2597,10,5,7.61
+76809,20,Male,Boston,Mobile,Health,7827,6,4,26.72
+15794,61,Male,Seattle,Tablet,Travel,7652,10,7,26.86
+73766,23,Female,New York,Mobile,Entertainment,5682,8,4,23.92
+36922,33,Male,Chicago,Tablet,Entertainment,6144,6,1,44.25
+46466,33,Other,Chicago,Tablet,Travel,2792,3,3,57.28
+38886,58,Female,Dallas,Desktop,Fashion,6945,5,4,31.43
+97661,18,Male,San Francisco,Desktop,Fashion,1892,4,4,57.24
+75773,34,Male,Chicago,Mobile,Tech,9117,8,1,23.54
+82708,38,Female,Chicago,Mobile,Tech,9368,7,0,40.02
+26870,44,Male,Denver,Desktop,Gaming,9582,9,7,9.33
+51004,59,Other,Chicago,Mobile,Finance,1569,10,5,47.88
+17448,32,Other,Houston,Tablet,Finance,9224,5,2,32.36
+45933,52,Other,Houston,Mobile,Finance,2589,5,2,41.75
+98227,55,Other,Denver,Tablet,Automotive,9806,2,1,44.87
+27662,53,Other,Boston,Tablet,Gaming,4033,5,0,13.15
+71153,26,Female,Seattle,Desktop,Fashion,9907,5,3,32.48
+43218,33,Male,Houston,Mobile,Travel,9305,8,1,4.97
+83244,59,Female,Miami,Desktop,Health,7493,9,7,11.05
+77139,37,Female,Boston,Tablet,Education,3560,3,2,51.48
+76808,64,Female,Los Angeles,Tablet,Finance,2175,1,1,2.14
+66716,32,Other,San Francisco,Mobile,Travel,6454,10,4,36.43
+62355,18,Male,Houston,Mobile,Tech,9627,1,1,12.85
+30189,38,Female,Denver,Tablet,Tech,4353,9,7,53.28
+15917,57,Female,Chicago,Tablet,Health,9973,8,2,59.33
+67449,20,Other,Dallas,Tablet,Travel,7654,2,0,19.19
+82627,37,Female,Denver,Desktop,Health,4295,3,2,49.27
+63771,30,Male,Denver,Tablet,Tech,4548,1,1,19.77
+36606,55,Other,San Francisco,Mobile,Tech,2879,4,1,24.95
+28401,42,Male,San Francisco,Mobile,Fashion,7844,4,1,19.48
+62029,57,Female,Miami,Tablet,Gaming,3424,2,2,3.26
+52992,39,Female,New York,Mobile,Travel,9710,9,4,26.96
+74470,57,Female,Seattle,Desktop,Entertainment,4843,4,0,54.57
+68050,24,Other,Denver,Tablet,Gaming,2364,2,1,31.71
+12573,33,Male,Boston,Tablet,Entertainment,1744,9,5,43.42
+43883,22,Male,San Francisco,Desktop,Fashion,7142,9,3,52.9
+14393,28,Other,Denver,Tablet,Tech,7997,7,5,50.99
+74972,40,Female,Los Angeles,Mobile,Food,6781,3,0,48.43
+15026,34,Male,Los Angeles,Desktop,Entertainment,4950,7,4,53.28
+20097,24,Male,Miami,Desktop,Automotive,6057,7,3,16.33
+94871,21,Other,Denver,Tablet,Automotive,2522,8,0,16.03
+96996,65,Female,Seattle,Desktop,Finance,9887,7,3,8.55
+17482,48,Male,Seattle,Tablet,Gaming,4363,7,0,24.67
+69954,34,Female,Denver,Desktop,Health,5706,2,0,45.23
+92212,38,Female,Seattle,Desktop,Automotive,4875,8,4,5.13
+44482,59,Other,New York,Tablet,Tech,2293,10,9,18.26
+81979,51,Female,San Francisco,Tablet,Tech,5037,6,5,9.4
+29509,28,Female,Boston,Tablet,Food,4604,4,3,44.38
+87925,24,Other,Denver,Tablet,Tech,3968,2,2,49.25
+22530,19,Male,Los Angeles,Desktop,Food,6863,10,4,10.88
+79366,50,Female,Seattle,Desktop,Health,1278,6,5,23.99
+78301,47,Other,San Francisco,Desktop,Tech,8463,9,7,32.37
+96957,63,Female,Los Angeles,Tablet,Finance,5633,4,0,9.59
+59361,24,Other,Miami,Desktop,Health,1942,7,3,34.75
+29995,22,Male,Los Angeles,Desktop,Fashion,7275,6,5,39.66
+61061,46,Other,Boston,Tablet,Food,5703,5,5,44.94
+32972,28,Male,Chicago,Mobile,Health,9093,10,9,23.75
+70724,20,Other,Dallas,Mobile,Fashion,8168,10,6,39.03
+26845,30,Male,Miami,Tablet,Gaming,6420,6,6,30.96
+16593,55,Female,San Francisco,Tablet,Tech,1468,4,0,31.69
+83623,25,Female,New York,Desktop,Fashion,6586,8,6,7.82
+39639,53,Female,Denver,Tablet,Travel,9108,6,3,6.37
+29110,28,Other,San Francisco,Mobile,Tech,5085,2,1,46.98
+67653,18,Other,Boston,Tablet,Food,4118,8,5,53.71
+77646,25,Female,Dallas,Desktop,Gaming,6348,7,0,40.76
+99095,38,Other,Miami,Tablet,Automotive,7827,2,2,8.1
+44895,22,Male,San Francisco,Tablet,Gaming,7761,6,1,16.66
+92467,24,Other,New York,Desktop,Fashion,4567,7,3,9.9
+42995,26,Male,Houston,Mobile,Gaming,5915,6,0,56.9
+68264,64,Male,Houston,Tablet,Finance,8778,8,0,27.47
+73236,33,Male,Seattle,Desktop,Gaming,7859,6,1,15.22
+41308,18,Male,New York,Desktop,Gaming,6457,3,1,24.37
+50064,47,Male,Seattle,Desktop,Food,1625,6,3,47.11
+86356,25,Other,Seattle,Tablet,Travel,7921,8,1,42.29
+43480,54,Female,Los Angeles,Desktop,Travel,4901,3,0,55.87
+88455,18,Other,San Francisco,Mobile,Entertainment,7608,8,2,14.83
+79490,29,Other,Chicago,Mobile,Automotive,4380,7,4,4.12
+90258,28,Male,Los Angeles,Desktop,Education,1875,5,0,22.12
+66458,24,Other,Dallas,Mobile,Fashion,9753,4,0,37.89
+41046,20,Other,New York,Mobile,Automotive,7184,3,0,53.68
+41908,61,Other,New York,Desktop,Tech,1039,7,0,11.43
+52737,39,Other,San Francisco,Desktop,Fashion,9454,10,2,49.33
+44095,21,Female,Denver,Tablet,Fashion,4050,9,1,28.9
+29625,64,Female,Seattle,Mobile,Gaming,3775,9,1,33.36
+50154,35,Male,Chicago,Tablet,Finance,7848,5,2,13.66
+76362,46,Male,New York,Tablet,Tech,1340,5,5,21.4
+31626,56,Male,Dallas,Mobile,Tech,9124,9,3,31.88
+98651,25,Female,New York,Tablet,Food,1509,7,5,19.76
+44936,33,Male,Miami,Desktop,Automotive,8015,1,0,9.16
+17698,60,Other,Houston,Tablet,Fashion,2391,8,4,37.55
+47131,61,Other,Los Angeles,Mobile,Education,3274,2,2,9.51
+33170,55,Other,Los Angeles,Desktop,Food,6584,1,1,30.34
+96562,60,Other,Chicago,Mobile,Gaming,5021,4,0,2.58
+61908,49,Female,Dallas,Mobile,Health,8369,3,1,40.79
+57360,49,Female,Chicago,Tablet,Gaming,7899,8,7,2.49
+55761,62,Other,Miami,Tablet,Gaming,2373,4,3,54.56
+28713,45,Male,Dallas,Desktop,Food,3894,4,2,43.23
+53526,47,Other,Los Angeles,Desktop,Education,6046,6,4,15.36
+25426,42,Male,San Francisco,Tablet,Food,7488,6,3,47.6
+92331,23,Male,San Francisco,Mobile,Finance,2289,3,2,23.48
+96257,24,Male,Houston,Tablet,Automotive,5435,6,4,48.45
+19519,28,Female,San Francisco,Tablet,Automotive,8654,2,1,49.86
+35532,53,Female,New York,Desktop,Education,4646,6,2,4.86
+64608,60,Female,Los Angeles,Mobile,Fashion,4012,1,1,40.33
+65857,53,Male,Chicago,Desktop,Entertainment,3559,4,1,53.66
+36154,18,Male,Chicago,Mobile,Gaming,6111,8,4,46.28
+32763,50,Female,San Francisco,Desktop,Food,5080,7,3,35.74
+50520,53,Female,Boston,Mobile,Travel,5988,3,0,27.99
+76223,18,Other,Houston,Mobile,Tech,3755,3,0,25.77
+36040,51,Other,Denver,Tablet,Entertainment,7391,4,4,5.38
+16147,31,Female,Dallas,Tablet,Gaming,6616,3,2,35.43
+28687,30,Other,Denver,Desktop,Food,8539,1,0,45.47
+84371,46,Other,Seattle,Desktop,Health,9740,1,0,1.13
+50075,54,Other,Dallas,Desktop,Health,6011,8,8,6.84
+13226,23,Male,New York,Desktop,Entertainment,2964,2,2,45.16
+28673,22,Other,Seattle,Desktop,Food,1969,8,7,18.44
+55684,54,Other,Seattle,Mobile,Food,7095,4,2,39.78
+68812,36,Other,Miami,Desktop,Travel,4929,4,0,22.18
+84981,28,Female,Los Angeles,Mobile,Health,9996,1,1,59.24
+90350,58,Male,New York,Tablet,Automotive,3303,3,0,47.69
+62795,43,Male,Denver,Desktop,Entertainment,4564,6,2,5.9
+97643,59,Other,Chicago,Mobile,Education,4864,6,6,3.23
+45213,32,Female,Dallas,Desktop,Tech,2070,5,2,30.88
+67709,54,Male,San Francisco,Mobile,Gaming,4334,9,1,26.42
+71391,39,Female,Boston,Tablet,Travel,1467,2,2,26.35
+79426,24,Male,Houston,Tablet,Health,9267,1,1,7.01
+87367,60,Other,San Francisco,Mobile,Food,3380,7,6,10.94
+36540,45,Female,Houston,Mobile,Health,5507,4,0,14.03
+45807,48,Male,Seattle,Tablet,Food,7754,3,2,37.51
+95835,41,Male,Denver,Mobile,Gaming,5023,8,4,26.92
+87064,53,Other,Houston,Mobile,Health,5809,4,4,6.34
+55842,49,Female,Miami,Mobile,Fashion,1526,5,4,5.28
+54138,26,Male,Denver,Tablet,Food,2179,1,1,2.32
+80214,63,Male,New York,Mobile,Health,7344,5,2,57.38
+85144,45,Male,Houston,Desktop,Education,4960,5,2,51.17
+40446,46,Male,Dallas,Tablet,Food,2405,2,2,28.95
+54935,61,Male,Chicago,Desktop,Travel,4274,10,10,5.17
+34498,25,Male,New York,Tablet,Entertainment,4212,5,4,21.48
+78495,58,Male,Boston,Desktop,Fashion,6527,5,5,53.49
+31805,39,Female,Miami,Tablet,Education,5725,6,2,26.14
+57904,54,Other,Houston,Desktop,Entertainment,4271,4,2,6.28
+83777,64,Male,Houston,Desktop,Fashion,8182,1,1,22.65
+90663,29,Female,New York,Tablet,Health,5486,3,0,33.65
+64845,31,Other,San Francisco,Tablet,Tech,6939,9,0,36.09
+70846,31,Female,Los Angeles,Desktop,Food,6693,3,0,3.41
+39445,26,Female,Dallas,Mobile,Food,7263,10,3,4.0
+80278,45,Female,Miami,Mobile,Health,2286,10,10,35.03
+64400,48,Female,Dallas,Desktop,Automotive,2205,4,1,31.71
+99560,50,Female,Chicago,Desktop,Finance,8968,1,1,44.98
+80995,46,Female,Miami,Mobile,Travel,4472,2,0,58.83
+15803,46,Other,Seattle,Tablet,Automotive,7067,1,1,6.81
+17304,57,Other,Los Angeles,Desktop,Gaming,5764,2,1,49.45
+83741,62,Male,Boston,Mobile,Tech,4703,9,8,7.7
+50912,49,Other,New York,Tablet,Fashion,1096,7,3,29.78
+87092,45,Female,New York,Desktop,Gaming,6121,7,4,20.57
+66898,59,Other,Denver,Mobile,Health,9327,8,0,37.05
+63272,43,Male,New York,Mobile,Entertainment,8933,9,7,17.02
+94240,33,Female,New York,Tablet,Travel,8350,1,0,2.79
+48974,23,Female,Houston,Desktop,Gaming,8880,6,4,23.29
+15619,33,Other,Miami,Mobile,Entertainment,3458,9,2,44.55
+44974,50,Female,Denver,Desktop,Food,9029,7,7,44.01
+78650,46,Other,Miami,Desktop,Education,2189,8,6,22.67
+28103,46,Other,Dallas,Desktop,Health,1268,10,4,11.65
+40542,43,Female,Denver,Mobile,Finance,7890,6,2,9.6
+33691,20,Male,New York,Tablet,Fashion,6963,4,4,55.18
+74866,64,Other,Seattle,Mobile,Travel,6652,7,0,32.22
+20577,50,Other,Houston,Mobile,Finance,3760,6,2,46.04
+13578,25,Other,Boston,Mobile,Tech,6985,2,2,40.03
+42408,48,Male,New York,Desktop,Travel,5795,5,0,29.03
+74624,23,Male,Chicago,Tablet,Food,4645,1,1,21.81
+78540,58,Other,New York,Tablet,Education,5718,7,2,33.36
+34187,36,Male,San Francisco,Tablet,Tech,3837,9,7,18.49
+89810,41,Other,Boston,Tablet,Travel,2422,9,4,10.19
+49972,36,Male,Houston,Mobile,Travel,2369,10,4,58.08
+44824,28,Other,San Francisco,Mobile,Entertainment,3700,4,1,54.96
+82008,24,Male,Seattle,Tablet,Gaming,2913,5,2,38.72
+79379,25,Other,Miami,Desktop,Tech,7478,7,0,12.64
+21703,27,Female,Boston,Tablet,Entertainment,3899,8,1,39.96
+75067,34,Female,Houston,Desktop,Health,7807,5,2,2.31
+41603,20,Other,New York,Mobile,Health,2828,4,3,1.79
+59718,63,Other,New York,Mobile,Entertainment,7158,4,1,11.27
+76752,30,Female,Seattle,Tablet,Gaming,3984,4,3,59.91
+67591,28,Male,New York,Tablet,Travel,1838,9,1,5.4
+38052,30,Female,San Francisco,Mobile,Finance,9846,4,3,48.03
+57791,39,Male,Houston,Tablet,Education,3036,4,1,52.37
+32939,63,Male,Chicago,Mobile,Travel,9372,1,1,57.94
+60390,43,Male,Houston,Tablet,Automotive,4820,9,9,9.38
+26088,28,Male,Dallas,Desktop,Gaming,8144,1,1,19.22
+19225,50,Other,Boston,Mobile,Entertainment,2232,3,3,55.15
+37759,36,Female,Miami,Tablet,Finance,2307,5,5,16.98
+16841,50,Male,Dallas,Tablet,Health,4007,3,0,41.03
+29165,61,Other,Dallas,Mobile,Health,5654,1,1,34.74
+35675,62,Other,Denver,Tablet,Tech,6499,4,2,53.07
+86094,32,Male,Los Angeles,Tablet,Gaming,2093,8,4,7.95
+44901,40,Male,Denver,Mobile,Fashion,8481,3,2,54.13
+72459,63,Female,Miami,Mobile,Finance,6119,10,6,15.4
+72873,61,Other,Boston,Tablet,Food,8558,6,4,30.42
+96049,45,Female,New York,Tablet,Travel,9647,4,2,56.03
+72353,52,Female,Denver,Tablet,Automotive,1798,4,3,13.0
+96001,37,Female,Denver,Desktop,Gaming,1205,6,5,56.59
+19324,28,Other,Dallas,Mobile,Finance,3547,2,0,16.56
+19434,21,Male,Seattle,Mobile,Tech,7362,1,0,9.4
+86631,21,Male,Denver,Tablet,Automotive,3975,4,1,34.6
